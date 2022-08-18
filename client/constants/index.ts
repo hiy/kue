@@ -1,0 +1,2 @@
+export const USER_ID_KEY = "KUE_USER_ID";
+export const CONNECTION_TOKENS_KEY = "CONNECTION_TOKENS";
