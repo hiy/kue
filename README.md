@@ -1,6 +1,9 @@
 # Kue
 
 Kue is a simple and mobile-friendly planning poker.
+
+![screen](https://user-images.githubusercontent.com/2444124/185391483-81e2e651-7728-4094-8083-509c0e2e79b7.png)
+
 ## deploy
 ### API
 
